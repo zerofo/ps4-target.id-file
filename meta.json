@@ -1,0 +1,16 @@
+{
+  "title": "target.id-file",
+  "version": "1.0.0",
+  "updated": "2021-02-26T00:00:00Z",
+  "device": "PlayStation 4",
+  "firmware": "",
+  "description": {
+    "default": "",
+    "en": ""
+  },
+  "author": "",
+  "url": "https://github.com/zerofo/ps4-target.id-file",
+  "redirect": false,
+  "reload": false,
+  "offline": true
+}
